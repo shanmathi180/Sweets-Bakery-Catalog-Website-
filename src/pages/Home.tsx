@@ -99,7 +99,7 @@ export default function Home() {
             <div className="relative">
               <div className="relative rounded-3xl overflow-hidden shadow-2xl aspect-[4/3]">
                 <img
-                  src="https://i.pinimg.com/736x/4f/db/d3/4fdbd31ebe1a0ea5bb7a9732a41d5d19.jpg"
+                  src="https://i.pinimg.com/736x/89/94/2a/89942a0d633137627b9250c97a698490.jpg"
                   alt="Beautiful chocolate cake"
                   className="w-full h-full object-cover"
                 />
