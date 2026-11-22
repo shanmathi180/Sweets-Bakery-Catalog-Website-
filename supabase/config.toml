@@ -1,0 +1,3 @@
+[functions.bootstrap-admin]
+verify_jwt = false
+entrypoint = "./functions/bootstrap-admin/index.ts"
