@@ -99,7 +99,7 @@ export default function Home() {
             <div className="relative">
               <div className="relative rounded-3xl overflow-hidden shadow-2xl aspect-[4/3]">
                 <img
-                  src="https://res-console.cloudinary.com/dvhf8cywn/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/UmFzcGJlcnJ5X1N3aXJsX0NoZWVzZWNha2VfV2l0aF9NaXJyb3JfR2xhemVfQW5kX0ZyZXNoX0ZydWl0/template_primary"
+                  src="https://raw.githubusercontent.com/shanmathi180/Sweets-Bakery-Catalog-Website-/main/src/components/admin/Raspberry%20Swirl%20Cheesecake%20With%20Mirror%20Glaze%20And%20Fresh%20Fruit.jpeg"
                   alt="Beautiful chocolate cake"
                   className="w-full h-full object-cover"
                 />
